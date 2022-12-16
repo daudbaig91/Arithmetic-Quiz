@@ -68,7 +68,7 @@ class gameactivity : AppCompatActivity() {
                 answerdisplay(true)//if true means correct
             }
             else{
-                answerdisplay(false)//if false means incorrect asnwer
+                answerdisplay(false)//if false means incorrect answer
             }
         }
         else if (listop.get(addv).result < listop.get(addv+1).result){
