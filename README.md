@@ -3,6 +3,8 @@
 University Kotlin App
 App that generates random operations given certain specifications, where the user needs toe select if opeation A is bigger then B, at the end of the timed quiz, the result is shown.
 
+Thank You for reading;  // :)
+
 #### App Look
 <img width="258" alt="Screenshot 2022-12-16 at 16 38 42" src="https://user-images.githubusercontent.com/46162359/208159284-363b31d3-d767-463c-aa6e-c8f2331baac8.png">
 <img width="258" alt="Screenshot 2022-12-16 at 16 39 40" src="https://user-images.githubusercontent.com/46162359/208159288-34a38931-9cc3-4e25-a2d2-7f9c8791def3.png">
